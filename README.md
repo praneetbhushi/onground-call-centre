@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # On-Ground.ai Call Centre
 
@@ -59,3 +60,6 @@ AI assistance was used to support implementation, debugging, and documentation. 
 
 - Data is stored in React component state and may reset on refresh.
 - No real telephony, authentication, or backend integration is implemented.
+=======
+# onground-call-centre
+>>>>>>> c319232b48046fecff1b349e6b688db2dba5bafe
