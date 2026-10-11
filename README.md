@@ -52,6 +52,25 @@ npm run build
 - Calls and callbacks are simulated; no real phone calls are placed.
 - No backend or external database is required.
 
+
+## Application Screenshots
+
+### 1. Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### 2. Lead Profile
+![Lead Profile](screenshots/leads-modal.png)
+
+### 3. Call Plan
+![Call Plan](screenshots/plan.png)
+
+### 4. Calendar
+![Calendar](screenshots/calendar.png)
+
+### 5. Pulse — Team Collaboration
+![Pulse](screenshots/pulse.png)
+
+
 ## AI Tools
 
 AI assistance was used to support implementation, debugging, and documentation. The final code was reviewed and tested locally.
